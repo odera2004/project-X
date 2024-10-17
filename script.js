@@ -1,6 +1,6 @@
 // Fetching Manga
 function fetchManga() {
-  fetch('http://localhost:3000/Manga')
+  fetch('https://project-x-yn5p.onrender.com/Manga')
       .then(response => response.json())
       .then(data => {
           const mangaContainer = document.getElementById("mangaList");
@@ -30,7 +30,7 @@ function fetchManga() {
 
 // Edit button
 function editManga(id) {
-  fetch(`http://localhost:3000/Manga/${id}`)
+  fetch(`https://project-x-yn5p.onrender.com/Manga/${id}`)
   .then((res) => res.json())
   .then((data) => {
       const edit_container = document.getElementById("edit_container");
@@ -67,7 +67,7 @@ function editManga(id) {
           const author = document.getElementById("edit_author").value;
           const image = document.getElementById("edit_imageUrl").value;
 
-          fetch(`http://localhost:3000/Manga/${id}`, {
+          fetch(`https://project-x-yn5p.onrender.com/Manga/${id}`, {
               method: 'PATCH',
               body: JSON.stringify({
                   title:title,
@@ -94,7 +94,7 @@ function editManga(id) {
 
 // Delete Manga
 function deleteManga(id) {
-  fetch(`http://localhost:3000/Manga/${id}`, {
+  fetch(`https://project-x-yn5p.onrender.com/Manga/${id}`, {
       method: "DELETE"
   })
   .then((res) => {
@@ -116,7 +116,7 @@ addForm.addEventListener("submit", (event) => {
   const author = document.getElementById("author").value;
   const imageUrl = document.getElementById("imageUrl").value;
 
-  fetch('http://localhost:3000/Manga', {
+  fetch('https://project-x-yn5p.onrender.com/Manga', {
       method: 'POST',
       body: JSON.stringify({
         title:title,
@@ -143,7 +143,7 @@ fetchManga();
 
 // Display Single Manga
 function viewManga(id) {
-  fetch(`http://localhost:3000/Manga/${id}`)
+  fetch(`https://project-x-yn5p.onrender.com/Manga/${id}`)
   .then((res) => res.json())
   .then((data) => {
       const single_Manga = document.getElementById("single_Manga");
