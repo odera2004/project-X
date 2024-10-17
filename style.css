@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+    height: 100vh;
+    background-color: #ffffff;
+    animation: pulse 2s infinite alternate;
+}
+
+@keyframes pulse {
+    0% { background-color: #ffffff; }
+    100% { background-color: #ffffff; }
+}
+
+h1 {
+    color: rgb(63, 20, 20);
+    font-size: 3em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}

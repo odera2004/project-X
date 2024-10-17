@@ -1,0 +1,92 @@
+{
+  "Manga": [
+    {
+      "id": "1",
+      "title": "Castle Vania",
+      "pages": "120",
+      "description": " Dracula Van Tepesh lives in his castle alone with his son armond who is eager to venture the outside world\n\n",
+      "author": "Mark",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT96ATZIJRv4r3FPAKXqK5D7IHsEhZdrC1TQ&s"
+    },
+    {
+      "id": "2",
+      "title": "M.H.A",
+      "pages": "120",
+      "description": " Izuku midoriya, a powerless boy gets abilities from the greatest hero of all time,AllMight\n\n",
+      "author": "Devon",
+      "imageUrl": "https://m.media-amazon.com/images/M/MV5BNzgxMzI3NzgtYzE2Zi00MzlmLThlNWEtNWVmZWEyZjNkZWYyXkEyXkFqcGc@._V1_QL75_UY281_CR5,0,190,281_.jpg"
+    },
+    {
+      "id": "3",
+      "title": "JJK",
+      "pages": "210",
+      "description": " Yuji itadori,Satoru gojo and other socerers battle against medevil cursed spirits",
+      "author": "Otaki",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDphKGDsPXp14EvpDwKJv0nbkTIY5vIcRI7g&s"
+    },
+    {
+      "id": "4",
+      "title": "My adventures with Superman",
+      "pages": "180",
+      "description": " clark Kent and Alice have lots of fun and adventure facing of fierce villains and meet grave danger as clark saves the day",
+      "author": "Noyaiba",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbdr-hOiFYuVVGgmmtPsrgg9nc7Tpct_AVFw&s"
+    },
+    {
+      "id": "5",
+      "title": "Hit Monkey",
+      "pages": "100",
+      "description": " Monkey is guided by a hitmans hoovering spirit and is led astray later on becoming an assasin himself\n\n",
+      "author": "Perry",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb7QHF_sWLOJlL-m71oZCPgpeIR0Vs9VAQWA&s"
+    },
+    {
+      "id": "6",
+      "title": "Ben 10",
+      "pages": "120",
+      "description": " Tenisson is faced of by feendish villains and he tendes to save the world all on his own\n\n",
+      "author": "Glen",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn-PWtxUeGB_4BQ_JFQqJKbych9V_hTRrUgQ&s"
+    },
+    {
+      "id": "7",
+      "title": "Batman",
+      "pages": "220",
+      "description": " Bruce wayne ventures into the night to fight off crime and restore peace in Gotham City\n\n",
+      "author": "Herly",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiPBD420gPhHejZGyyl5oHXcX0AePMHQUwxw&s"
+    },
+    {
+      "id": "8",
+      "title": "Primal",
+      "pages": "229",
+      "description": " Primal the man from the stoneAges strives to survive in a very harssh and competitive environment where he is faced of by predators and preys\n\n",
+      "author": "harly",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhzG5N4qqAq7BlmB_1h31MB8tfEKYjtuAGYg&s"
+    },
+    {
+      "id": "9",
+      "title": "Young Justice",
+      "pages": "176",
+      "description": " Meet the young Heros who try there very best to save the world from cataclysmic events and much more\n\n",
+      "author": "Brian",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiPBD420gPhHejZGyyl5oHXcX0AePMHQUwxw&s"
+    },
+    {
+      "id": "10",
+      "title": "Futurama",
+      "pages": "103",
+      "description": " Meet Bender and His colligues as they travel across the universe delivering Parcels and then again encounter adventure\n\n",
+      "author": "Andrew",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb7QHF_sWLOJlL-m71oZCPgpeIR0Vs9VAQWA&s"
+    },
+    {
+      "id": "11",
+      "title": "De La Rue",
+      "pages": "121",
+      "description": " it is a fairly awesome world we have for ourselves out here",
+      "author": "Mr oblique",
+      "imageUrl": "https://img.freepik.com/premium-photo/hot-adult-anime-girl-with-stylish-red-hair-cute-anime-girl-hot-girl_677428-2220.jpg"
+    }
+  ]
+}
