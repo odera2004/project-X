@@ -21,6 +21,8 @@ Update existing manga details through a form.
 ## API Endpoint
 Base URL:[https://project-x-yn5p.onrender.com/Manga]
 
+## Slides
+[https://docs.google.com/presentation/d/1okimzB0fY77KZMq6aFfHws-_u_vBQwLg_wRzJMaLE10/edit?usp=sharing]
 
 ## Live Demo And Source code
 You can view this App using the deployed link[https://odera2004.github.io/project-X/] on github and also
